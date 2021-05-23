@@ -1,0 +1,2 @@
+# dbgo
+simple go orm
